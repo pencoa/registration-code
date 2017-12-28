@@ -25,7 +25,7 @@ def get_check_code(fcode):
         a1 = 1 - p
     else:
         a1 = 11 - p
-    return a1
+    return str(a1)
 
 
 if __name__ == '__main__':

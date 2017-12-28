@@ -1,0 +1,6 @@
+*.js
+*.log
+*.html
+*.png
+.DS_Store
+*pyc
